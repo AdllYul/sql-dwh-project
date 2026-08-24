@@ -1,2 +1,3 @@
-# sql-dwh-project
-Building a modern data warehouse, including ETL processes,data modeling and analytics
+# Data Warehouse and Analytics Project
+
+Welcome to the **Data Warehouse and Analytics Project** repository! 🚀
