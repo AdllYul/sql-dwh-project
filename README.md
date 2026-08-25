@@ -28,4 +28,9 @@ Develop SQL based analytics to deliver detailed insights into:
 - **Sales trends**
 
 This insights empower business stakeholders with key metrics, enabling strategic decision-making.
+## License🛡️
+This project licensed under the MIT License (License). You are feel to share, modify and copy with proper attribution.
+
+## Few words about me!
+Hi, there. I am Adilbek Yuldashev, student at Narxoz un. I am going to be Data Engineer! See you soon.
 
